@@ -191,7 +191,7 @@
  - __[Assignment Writer](https://t.me/MasterAssignmentBot)__ : _Assignment writer bot can write your assignments on different papers with handwritten fonts and colours within seconds._
   - __[Cyber Collector](https://t.me/cybercollectorbot)__ : _Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required._
  - __[DeepAlpha Bot](https://t.me/DeepAlphaVault_bot)__ : _AI crypto trading bot. Manage AI, Grid, and DCA bots across 12 exchanges from Telegram. Check positions, PnL, balance. Free 7-day trial. [Website](https://deepalphabot.com)_
- - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
+  - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
 
   ## OpenSource
   
