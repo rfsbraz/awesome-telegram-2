@@ -284,7 +284,7 @@
   - __[English Wikipedia Link Converter](https://github.com/jnton/english-wikipedia-link-converter-telegram-bot)__  By [JnTon](https://github.com/jnton) : _Telegram bot that converts any non-English Wikipedia link into its English equivalent_
   - __[freqtrade](https://github.com/freqtrade/freqtrade)__  By [freqtrade](https://github.com/freqtrade) : _Free, open source crypto trading bot_
   - __[rss bot](https://github.com/iovxw/rssbot)__  By [iovxw](https://github.com/iovxw) : _Lightweight Telegram RSS notification bot._
-  - __[Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot)__  By [IgorShadurin](https://github.com/IgorShadurin) : _Bilingual group bot for photo-backed weekly weight goals, progress charts, reminders, and achievements._
+  - __[Weight Goal Bot](https://t.me/my_weight_goal_bot)__  By [IgorShadurin](https://github.com/IgorShadurin) : _Open-source group bot for photo-backed weekly weight goals, progress charts, reminders, and achievements in English, Russian, and Chinese. [Source](https://github.com/IgorShadurin/weight-telegram-bot)._
 
 
   ## Telegram Bot Templates
