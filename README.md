@@ -195,6 +195,8 @@
  - __[CoinPing](https://t.me/CoinPingAlertBot)__ : _Multi-condition crypto price alerts via Telegram: price thresholds, 24h % change, and cross-exchange spreads. [Open Source](https://github.com/SeigeC/coinping-bot). Free tier: 3 alerts._
  - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
 
+  - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
+
   ## OpenSource
   
   ### OpenSource Apps
