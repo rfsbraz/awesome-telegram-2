@@ -198,6 +198,7 @@
  - __[CaptainPost](https://t.me/CaptainPost_bot)__ : _Automates publishing across a network of Telegram channels — route posts between the channels you own, with per-route review queues, scheduling, link rewriting and source attribution. Free tier. [Website](https://captainpost.pages.dev)_
  - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
  - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
+ - __[I Nudge](https://t.me/mynudgebot?start=src_awesome)__ : _Proactive reminders and a morning briefing for tasks you capture by text or voice note, in your own language. One tap to close. [Website](https://inudge.io)._
 
   ## OpenSource
   
