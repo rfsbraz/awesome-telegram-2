@@ -194,10 +194,10 @@
  - __[DeepAlpha Bot](https://t.me/DeepAlphaVault_bot)__ : _AI crypto trading bot. Manage AI, Grid, and DCA bots across 12 exchanges from Telegram. Check positions, PnL, balance. Free 7-day trial. [Website](https://deepalphabot.com)_
  - __[CoinPing](https://t.me/CoinPingAlertBot)__ : _Multi-condition crypto price alerts via Telegram: price thresholds, 24h % change, and cross-exchange spreads. [Open Source](https://github.com/SeigeC/coinping-bot). Free tier: 3 alerts._
  - __[Account Created Date](https://t.me/AccountCreatedBot)__ : _Estimate Telegram account creation dates via forwarded messages, usernames, or contacts. Supports multiple languages._
+ - __[Mitup](https://t.me/mitupbot?start=src_awesome)__ : _Organize meetups with your Telegram groups without adding a bot to them: RSVPs, waiting lists, and reminders in each person's timezone. [Open Source](https://gitlab.com/meetupbot/mitup-telegram-bot). [Website](https://mitup.social)._
  - __[CaptainPost](https://t.me/CaptainPost_bot)__ : _Automates publishing across a network of Telegram channels — route posts between the channels you own, with per-route review queues, scheduling, link rewriting and source attribution. Free tier. [Website](https://captainpost.pages.dev)_
-
-  - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
-  - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
+ - __[Crawlbench Alerts](https://t.me/CrawlbenchAlertsBot)__ : _Telegram bot that sends Facebook Marketplace match alerts from Crawlbench. [Website](https://crawlbench.com)_
+ - __[TikTapSaveBot](https://t.me/TikTapSaveBot)__ : _Downloads TikTok, Instagram and X/Twitter videos without the watermark in HD, right inside Telegram. 3 free downloads, then unlock via Telegram Stars. Works inline._
 
   ## OpenSource
   
